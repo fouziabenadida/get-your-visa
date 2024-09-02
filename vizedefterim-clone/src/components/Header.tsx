@@ -1,4 +1,3 @@
-// src/components/Header/Header.tsx
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { FaMoon, FaSun, FaCog, FaTimes, FaUndo } from "react-icons/fa";
